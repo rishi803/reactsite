@@ -2,7 +2,7 @@ import React , {useEffect} from "react";
 import Footer from "./Footer";
 import Header from "./Header";
 
-//layout
+//layout h
 function Layout({ children }) {
   useEffect(() => {
     window.scrollTo(0, 0)
